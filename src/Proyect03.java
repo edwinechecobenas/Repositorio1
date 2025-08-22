@@ -22,8 +22,8 @@ public class Proyect03 {
 
     total = venta1+venta2;
     promedio = (venta1+venta2) /2;
-    System.out.println("El Total de las ventas es: " + total);
-    System.out.println("El Promedio de las ventas es: " + promedio);
+    System.out.println("El Total ventas es: " + total);
+    System.out.println("El Promedio es: " + promedio);
         
         
     }
