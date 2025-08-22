@@ -19,10 +19,9 @@ public class Proyect03 {
     venta1 = lectura.nextDouble();
      System.out.print("ingrso venta2 : ");
     venta2 = lectura.nextDouble();
-     System.out.print("ingrso venta3 : ");
-    venta3 = lectura.nextDouble();
-    total = venta1+venta2+venta3;
-    promedio = (venta1+venta2+venta3) /3;
+
+    total = venta1+venta2;
+    promedio = (venta1+venta2) /2;
     System.out.println("El Total de las ventas es: " + total);
     System.out.println("El Promedio de las ventas es: " + promedio);
         
